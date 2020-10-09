@@ -1,10 +1,9 @@
 # KnowMail
 
-<p>This application is a Searching Email</p>
-<p>This Script Tested On Linux Operation System </p>
-<p>This Script Powered By Python Version 2.7</p>
+<p>This script is a Searching Email</p>
+<p>Tested on GNU/Linux operation system </p>
+<p>Powered by Python version 2.7</p>
 
-[Follow My Friend In Telegram Channel](https://t.me/softhacking)
 
 ```bash
    __ __                __  ___     _ __
